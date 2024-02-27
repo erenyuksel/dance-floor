@@ -1,0 +1,9 @@
+.dancefloor {
+    display: flex;
+    border: solid 5px rgb(3, 2, 2);
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+}
+
